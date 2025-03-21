@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-Machine learning system for predicting anatomical positions from CT scan features using regression models and neural networks. Developed as part of MLPR coursework at the University of Edinburgh.
+Machine learning system for predicting anatomical positions from CT scan features using regression models and neural networks. Developed as part of MLPR coursework at the University of Edinburgh. Code for this coursework is almost **from scratch** without using some popular ML libraries(except some optimization functions) which means deeper understanding on math and basic ML algorithms.
+
+***Final mark: 80***
 
  **Key Features** :
 
